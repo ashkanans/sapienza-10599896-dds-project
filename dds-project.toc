@@ -1,0 +1,27 @@
+\contentsline {section}{\numberline {1}Modelling Distributed Systems}{4}{}%
+\contentsline {section}{\numberline {2}Time in Distributed Systems}{5}{}%
+\contentsline {section}{\numberline {3}Logical Clock}{6}{}%
+\contentsline {section}{\numberline {4}Distributed Mutual Exclusion}{7}{}%
+\contentsline {section}{\numberline {5}Failure Detection Abstraction}{8}{}%
+\contentsline {subsection}{\numberline {5.1}Perfect Failure Detectors}{8}{}%
+\contentsline {subsection}{\numberline {5.2}Eventually Perfect Failure Detectors}{8}{}%
+\contentsline {subsection}{\numberline {5.3}Leader Election}{8}{}%
+\contentsline {subsection}{\numberline {5.4}Eventual Leader Election}{8}{}%
+\contentsline {section}{\numberline {6}Broadcast Communications}{9}{}%
+\contentsline {section}{\numberline {7}Consensus}{10}{}%
+\contentsline {section}{\numberline {8}Ordered Communications}{11}{}%
+\contentsline {section}{\numberline {9}Registers}{12}{}%
+\contentsline {section}{\numberline {10}Software Replication}{13}{}%
+\contentsline {section}{\numberline {11}Overview on Capacity Planning}{14}{}%
+\contentsline {section}{\numberline {12}Modeling the Workload of a System}{15}{}%
+\contentsline {section}{\numberline {13}Building a Performance Model 1}{16}{}%
+\contentsline {section}{\numberline {14}Building a Performance Model 2}{17}{}%
+\contentsline {section}{\numberline {15}Dependability Evaluation}{18}{}%
+\contentsline {section}{\numberline {16}Intro to Experimental Design}{19}{}%
+\contentsline {section}{\numberline {17}CAP Theorem}{20}{}%
+\contentsline {section}{\numberline {18}Consistency Criteria for Distributed Shared Memories}{21}{}%
+\contentsline {section}{\numberline {19}Publish-Subscribe Communication Paradigm}{22}{}%
+\contentsline {section}{\numberline {20}Overlay Networks}{23}{}%
+\contentsline {section}{\numberline {21}DLT and Blockchain}{24}{}%
+\contentsline {section}{\numberline {22}Exercises}{25}{}%
+\contentsline {section}{\numberline {23}Exams}{26}{}%
